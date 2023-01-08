@@ -1,1 +1,1 @@
-# basic-lwc-recipes
+# Basic Important Javascript Functions
